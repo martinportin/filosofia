@@ -10,3 +10,5 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
 # Filosofia
+
+Filosofia is a REST API bulit in Java for providing material from a number of philosophers' books and essays.
